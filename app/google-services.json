@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837457113779",
+    "firebase_url": "https://myqq-2957a.firebaseio.com",
+    "project_id": "myqq-2957a",
+    "storage_bucket": "myqq-2957a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837457113779:android:d20eb3650cd6b1e8",
+        "android_client_info": {
+          "package_name": "com.example.administrator.myqq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837457113779-n84f1dbuom32krrepfkp5k9nfcjuhju0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmtE4Q3B3vtF4Cz2N3vb09Paen13us9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
